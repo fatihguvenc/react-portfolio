@@ -1,0 +1,31 @@
+.name-input, .comment-area{
+    outline: 0;
+    border: none;
+    border-radius: 12px;
+    padding: 5px;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.comment-area{
+    border-radius: 15px;
+    background-color: #fff;
+}
+.comment-button{
+    outline: 0;
+    border: none;
+    border-radius: 7px;
+    background-color: #fff;
+    font-weight: 700;
+    width: 300px;
+    margin: 0 auto;
+}
+.delete{
+    outline: 0;
+    border: none;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+}
