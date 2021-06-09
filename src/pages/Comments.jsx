@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 // Custom CSS
-import '../styles/comment.scss'
+import '../styles/comment.css'
 export default function InputArea() {
   const [name, setName] = useState("");
   const [comment, setComment] = useState("");

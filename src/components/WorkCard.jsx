@@ -1,7 +1,7 @@
 // Components
 import LinkComp from "./LinkComp"
 // Custom CSS
-import "../styles/card.scss"
+import "../styles/card.css"
 
 export default function WorkCard(props){
     const {img, projectName, technologies, description, demoURL, repoURL} = props.item;
